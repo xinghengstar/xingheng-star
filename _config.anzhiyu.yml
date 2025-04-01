@@ -25,14 +25,14 @@ nav:
   menu:
     - title: 项目1
       item:
-        - name: AI答题平台
+        - name: xh-AI答题平台
           link: https://www.xinghengdati.cn/
-          icon: https://i.postimg.cc/PJSX02hr/MBTI-3.png
+          icon: https://xinghengstar.oss-cn-beijing.aliyuncs.com/logo.png
     - title: 项目2
       item:
-        - name: AI答题平台
-          link: https://www.xinghengdati.cn/
-          icon: https://i.postimg.cc/PJSX02hr/MBTI-3.png
+        - name: xh-OJ判题平台
+          link: https://www.xinghengoj.cn/
+          icon: https://xinghengstar.oss-cn-beijing.aliyuncs.com/%E7%94%9F%E6%88%90%20OJ%20%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%A0%87.png
 
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
@@ -60,7 +60,7 @@ copy:
     enable: false
     limit_count: 50
 
-# social settings (社交图标设置)
+# social settings (右侧边栏社交图标设置)
 # formal:
 #   name: link || icon
 social:
@@ -138,7 +138,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://bu.dusays.com/2023/04/27/64496e511b09c.jpg
+  img: https://xinghengstar.oss-cn-beijing.aliyuncs.com/%E4%BB%A5%E6%98%9F%E6%81%92%E4%B8%BA%E4%B8%BB%E9%A2%98%E8%AE%BE%E8%AE%A1%E5%9B%BE%E6%A0%87.png
   effect: false
 
 # Disable all banner image
@@ -171,7 +171,7 @@ error_img:
 error_404:
   enable: true
   subtitle: "请尝试站内搜索寻找文章"
-  background: https://bu.dusays.com/2023/05/08/645907596997d.gif
+  background: https://xinghengstar.oss-cn-beijing.aliyuncs.com/404.png
 
 post_meta:
   page: # Home Page
@@ -215,7 +215,7 @@ index_post_content:
 
 # anchor
 # when you scroll in post, the URL will update according to header id.
-anchor: false
+anchor: true
 
 # Post
 # --------------------------------------
@@ -244,7 +244,7 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-weichat.png
+    - img: https://xinghengstar.oss-cn-beijing.aliyuncs.com/qrchimpX1024%20(1).png
       link:
       text: 微信
     - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-alipay.png
@@ -425,11 +425,11 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2021
+    since: 2023
   custom_text:
   runtime:
     enable: false
-    launch_time: 04/01/2021 00:00:00 # 网站上线时间
+    launch_time: 05/01/2023 19:12:27 # 网站上线时间
     work_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
     work_description: 距离月入25k也就还差一个大佬带我~
     offduty_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-下班啦.svg
